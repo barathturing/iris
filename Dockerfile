@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM continuumio/anaconda3:4.4.0
 
 FROM python:3.6.5
 
